@@ -17,3 +17,7 @@ I chose this article on writing good git commit messages, which seemed rather ap
 Some of these rules I followed either naturally or by nature of the software I used. In fact in Github Desktop, some of these conventions are enforced by design (Subject line in particular). Along with that, I naturally followed rule 7, using the body to explain the what and why rather than how. It made sense naturally from my perspective, as the how could be infered by something like `git diff`, whereas the what, and particularly the why, are much harder (sometimes impossible) to infer. However, I found rule 5 both interesting and a completely fresh idea to me. It said to put all commit subject lines in the imperative tense (command tense). The argument is simple and makes sense- for one, it meshes with git's own syntactical conventions; Both merge and revert messages utilize the imperative tense. Additionally, your message will then clearly state what will happen if you revert to this commit.
 
 All in all I found this article insightful and perhaps something I will endeavour to add into my own practice.
+
+## Isaac Fisher
+
+I appreciate the thought this article gives to semantics, which I think are an often overlooked part of the engineering process and can really inhibit how teams communicate. Overall the ideas presented would just make the whole process smoother and everything read better, which while maybe not core to the product can definitely improve developer focus and productivity. Cool read!
