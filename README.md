@@ -1,7 +1,7 @@
-#Assignment 0: Git Pratice
-##Wyatt Destabelle
+# Assignment 0: Git Pratice
+## Wyatt Destabelle
 
-###Article Title: How to Write a Git Commit Message
+### Article Title: How to Write a Git Commit Message
 Link: <https://cbea.ms/git-commit/>
 
 I chose this article on writing good git commit messages, which seemed rather appropriate given the assignment. At first, this topic seems almost pedantic- but very rapidly the author presents a strong argument in favor of improving your git commit messages. By being more intentional, clear and concise with your commit messages, it becomes much easier to browse the commit history using `git log`. Once that is done, tools like `git revert` become more powerful, as you are able to much more easily understand what you are reverting *too*. The author then lays out what they call *"The seven rules of a great Git commit message"*. They are as follows:
